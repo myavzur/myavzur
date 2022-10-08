@@ -3,7 +3,7 @@
 ![Views](https://komarev.com/ghpvc/?username=myavzur)
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/myavzur/myavzur/main/buhaet.jpg" height="250" width="75%">
+	<img src="https://raw.githubusercontent.com/myavzur/myavzur/main/buhaet.jpg" height="350" width="85%">
 </div>
 
 ```js

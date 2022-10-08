@@ -1,9 +1,9 @@
 # Sadistic Visual ♿
 
-![profile views](https://komarev.com/ghpvc/?username=myavzur)
+![Views](https://komarev.com/ghpvc/?username=myavzur)
 
 <div align="center">
-	<img src="logo.svg" height="100">
+	<img src="buhaet.svg" height="100">
 </div>
 
 ```js

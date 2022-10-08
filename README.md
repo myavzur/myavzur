@@ -8,7 +8,7 @@
 
 ```js
 export default {
-  country: 'Russia',
+  country: 'Moon, Pesilvaniya and Sobachki',
   technologies:{
     backEnd: ['nodejs', 'express', 'nest', 'php'],
     frontEnd: ['typescript', 'react', 'next'],

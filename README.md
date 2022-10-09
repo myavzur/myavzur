@@ -9,11 +9,14 @@
 ```js
 export default {
   country: 'Moon, Pesilvaniya and Sobachki',
+  languages: ['ru', 'en', 'c#', 'javascript', 'typescript 🍺'],
   technologies:{
-    frontend: ['typescript', 'react', 'next 🍺'],
+    frontend: ['vue', 'angular', 'react', 'redux 🍺', 'threejs 🍺', 'next 🍺'],
     backend: ['php', 'nodejs', 'express', 'nest 🍺'],
     database: ['firebase', 'mongo', 'mysql', 'postgresql 🍺'],
-    misc: ['gulp 🍺', 'webpack 🍺']
+    testing: ['jest'],
+    software: ['photoshop 🍺', 'adobeilustrator', 'figma']
+    misc: ['sass', 'pug', 'handlebars', 'gulp 🍺', 'webpack 🍺']
   }
 }
 ```

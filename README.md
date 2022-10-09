@@ -10,9 +10,9 @@
 export default {
   country: 'Moon, Pesilvaniya and Sobachki',
   technologies:{
-    backEnd: ['nodejs', 'express', 'nest', 'php'],
-    frontEnd: ['typescript', 'react', 'next'],
-    database: ['mysql', 'postgresql', 'mongo', 'firebase'],
+    backEnd: ['nodejs', 'express', 'nest🥂', 'php'],
+    frontEnd: ['typescript', 'react', 'next🥂'],
+    database: ['mysql', 'postgresql🥂', 'mongo', 'firebase'],
     misc: ['gulp', 'webpack']
   }
 }

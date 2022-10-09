@@ -12,9 +12,9 @@ export default {
   languages: ['ru', 'en', 'c#', 'javascript', 'typescript 🍺'],
   technologies:{
     frontend: ['vue', 'angular', 'react', 'redux', 'threejs 🍺', 'next 🍺'],
-    backend: ['php', 'nodejs', 'express', 'nest 🍺'],
+    backend:  ['php', 'nodejs', 'express', 'nest 🍺'],
     database: ['firebase', 'mongo', 'mysql', 'postgresql 🍺'],
-    misc: ['sass', 'pug', 'handlebars', 'gulp', 'webpack']
+    misc:     ['sass', 'pug', 'handlebars', 'gulp', 'webpack']
   }
 }
 ```

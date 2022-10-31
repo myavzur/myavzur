@@ -1,4 +1,4 @@
-# Sadistic Visual ♿
+# ♿
 
 ![Views](https://komarev.com/ghpvc/?username=myavzur)
 

@@ -14,7 +14,8 @@ export default {
     frontend: ['vue', 'angular', 'react 🍺', 'redux', 'threejs', 'next 🍺'],
     backend:  ['php', 'node', 'express', 'nest 🍺'],
     database: ['firebase', 'mongo', 'mysql', 'postgresql 🍺', 'redis'],
-    misc:     ['sass', 'pug', 'handlebars', 'gulp', 'webpack', 'docker', 'rabbitmq']
+    style:    ['tailwind', 'css_modules', 'sass']
+    misc:     ['gulp', 'webpack', 'docker', 'rabbitmq']
   }
 }
 ```

@@ -9,10 +9,10 @@
 ```js
 export default {
   country: 'Moon, Pesilvaniya and Sobachki',
-  languages: ['ru', 'en', 'c#', 'javascript', 'typescript 🍺'],
+  languages: ['ru', 'en', 'csharp', 'javascript', 'typescript 🍺'],
   technologies:{
     frontend: ['vue', 'angular', 'react 🍺', 'redux', 'threejs', 'next 🍺'],
-    backend:  ['ruby on rails', 'php', 'node', 'express', 'nest 🍺'],
+    backend:  ['ruby-on-rails', 'php', 'node', 'express', 'nest 🍺'],
     database: ['firebase', 'mysql', 'postgresql 🍺', 'redis'],
     style:    ['tailwind', 'css_modules', 'sass'],
     misc:     ['gulp', 'webpack', 'docker', 'rabbitmq']

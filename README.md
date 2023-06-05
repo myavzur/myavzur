@@ -12,7 +12,7 @@ export default {
   languages: ['ru', 'en', 'c#', 'javascript', 'typescript 🍺'],
   technologies:{
     frontend: ['vue', 'angular', 'react 🍺', 'redux', 'threejs', 'next 🍺'],
-    backend:  ['php', 'node', 'express', 'nest 🍺'],
+    backend:  ['ruby on rails', 'php', 'node', 'express', 'nest 🍺'],
     database: ['firebase', 'mysql', 'postgresql 🍺', 'redis'],
     style:    ['tailwind', 'css_modules', 'sass'],
     misc:     ['gulp', 'webpack', 'docker', 'rabbitmq']

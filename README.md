@@ -14,9 +14,9 @@ export default {
     frontend:        ['vue', 'angular', 'react 🍺', 'next 🍺'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
-    backend:         ['ruby-on-rails', 'php', 'node', 'express', 'nest 🍺'],
+    backend:         ['php', 'node', 'express', 'nest 🍺'],
     backend_db:      ['firebase', 'mysql', 'postgresql 🍺', 'redis'],
-    misc:            ['gulp', 'webpack', 'docker', 'rabbitmq']
+    misc:            ['gulp', 'webpack', 'docker', 'rabbitmq', 'ejs']
   }
 }
 ```

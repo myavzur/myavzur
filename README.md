@@ -9,13 +9,13 @@
 ```js
 export default {
   country: 'Moon, Pesilvaniya and Sobachki',
-  languages: ['csharp', 'javascript', 'typescript 🍺'],
+  languages: ['C#', 'JS', 'TS'],
   technologies:{
-    frontend:        ['vue', 'angular', 'react 🍺', 'next 🍺'],
+    frontend:        ['vue', 'angular', 'react', 'react-native', 'next'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
-    backend:         ['php', 'node', 'express', 'nest 🍺'],
-    backend_db:      ['firebase', 'mysql', 'postgresql 🍺', 'redis'],
+    backend:         ['php', 'node', 'express', 'nest'],
+    backend_db:      ['firebase', 'mysql', 'postgresql', 'redis'],
     misc:            ['gulp', 'webpack', 'docker', 'rabbitmq', 'ejs']
   }
 }

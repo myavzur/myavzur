@@ -11,7 +11,7 @@ export default {
   country: 'Moon, Pesilvaniya and Sobachki',
   languages: ['C#', 'JS', 'TS'],
   technologies:{
-    frontend:        ['vue', 'angular', 'react', 'react-native', 'next'],
+    frontend:        ['vue', 'react', 'react-native', 'next'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
     backend:         ['php', 'node', 'express', 'nest'],

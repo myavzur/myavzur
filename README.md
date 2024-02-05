@@ -14,7 +14,7 @@ export default {
     frontend:        ['vue', 'react', 'react-native', 'next'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
-    backend:         ['php', 'node', 'express', 'nest'],
+    backend:         ['php', 'express', 'nest'],
     backend_db:      ['firebase', 'mysql', 'postgresql', 'redis'],
     misc:            ['gulp', 'webpack', 'docker', 'rabbitmq', 'ejs']
   }

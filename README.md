@@ -5,7 +5,7 @@
 ```js
 export default {
   country: 'Russia, Orel',
-  languages: ['C#', 'JS', 'TS'],
+  languages: ['JavaScript', 'TypeScript'],
   technologies:{
     frontend:        ['vue', 'react', 'next'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],

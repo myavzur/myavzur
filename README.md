@@ -2,13 +2,9 @@
 
 ![Views](https://komarev.com/ghpvc/?username=myavzur)
 
-<div align="center">
-	<img src="https://raw.githubusercontent.com/myavzur/myavzur/main/buhaet.jpg" height="350" width="100%">
-</div>
-
 ```js
 export default {
-  country: 'Moon, Pesilvaniya and Sobachki',
+  country: 'Russia, Orel',
   languages: ['C#', 'JS', 'TS'],
   technologies:{
     frontend:        ['vue', 'react', 'next'],

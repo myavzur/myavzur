@@ -3,7 +3,8 @@
 ![Views](https://komarev.com/ghpvc/?username=myavzur)
 
 ```js
-export default {
+// TODO: Make It better!
+export const userConfig = {
   country: 'Russia, Orel',
   languages: ['JavaScript', 'TypeScript'],
   technologies:{

@@ -8,7 +8,7 @@ export const userConfig = {
   country: 'Russia, Orel',
   languages: ['JavaScript', 'TypeScript'],
   technologies:{
-    frontend:        ['vue', 'react', 'next'],
+    frontend:        ['react', 'next'],
     frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
     backend:         ['php', 'express', 'nest'],

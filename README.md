@@ -1,7 +1,3 @@
-# ♿
-
-![Views](https://komarev.com/ghpvc/?username=myavzur)
-
 ```js
 // TODO: Make It better!
 export const userConfig = {

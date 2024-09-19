@@ -2,14 +2,23 @@
 // TODO: Make It better!
 export const userConfig = {
   country: 'Russia, Orel',
-  languages: ['JavaScript', 'TypeScript'],
+  languages: ['ru', 'en'],
   technologies:{
-    frontend:        ['react', 'electron', 'next', 'vue'],
-    frontend_libs:   ['threejs', 'gsap', 'videojs', 'redux', 'react-spring'],
-    frontend_styles: ['tailwind', 'css-modules', 'sass'],
-    backend:         ['php', 'express', 'nest'],
-    backend_db:      ['firebase', 'mysql', 'postgresql', 'redis'],
-    misc:            ['gulp', 'webpack', 'docker', 'rabbitmq', 'ejs']
+    common: {
+      languages:    ['javascript', 'typescript', 'html', 'css', 'php'],
+      bundlers:     ['webpack', 'gulp', 'docker', 'vite'],
+      frameworks:   ['ejs']
+    },
+    frontend: {
+      frameworks:   ['react', 'electron', 'next', 'vue'],
+      libraries:    ['threejs', 'gsap', 'videojs', 'redux', 'react-spring'],
+      styles:       ['tailwind', 'css-modules', 'sass']
+    },
+    backend {
+      frameworks:   ['php', 'express', 'nest'],
+      databases:    ['firebase', 'mysql', 'postgresql', 'redis'],
+      misc:         ['rabbitmq']
+    }
   }
 }
 ```

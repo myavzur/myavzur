@@ -11,7 +11,8 @@ export const userConfig = {
     },
     frontend: {
       frameworks:   ['react', 'next', 'vue', 'electron'],
-      libraries:    ['threejs', 'gsap', 'videojs', 'redux', 'react-spring'],
+      stores:       ['redux', 'zustand'],
+      libraries:    ['threejs', 'gsap', 'videojs', 'react-spring'],
       styles:       ['tailwind', 'css-modules', 'sass']
     },
     backend {

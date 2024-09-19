@@ -6,7 +6,7 @@ export const userConfig = {
   technologies: {
     common: {
       languages:    ['javascript', 'typescript', 'html', 'css', 'php'],
-      bundlers:     ['webpack', 'gulp', 'docker', 'vite'],
+      bundlers:     ['webpack', 'gulp', 'vite', 'docker'],
       mics:         ['ejs', 'handlebars']
     },
     frontend: {

@@ -3,6 +3,7 @@
 export const userConfig = {
   country: 'Russia, Orel',
   languages: ['ru', 'en'],
+  website: null,
   technologies: {
     common: {
       languages:    ['javascript', 'typescript', 'html', 'css', 'php'],

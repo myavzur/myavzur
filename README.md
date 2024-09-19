@@ -1,7 +1,8 @@
 ```js
 // TODO: Make It better!
 export const userConfig = {
-  country: 'Russia, Orel',
+  country: 'Russia',
+  city: 'Orel',
   languages: ['ru', 'en'],
   technologies:{
     common: {

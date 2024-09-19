@@ -5,7 +5,7 @@ export const userConfig = {
   languages: ['JavaScript', 'TypeScript'],
   technologies:{
     frontend:        ['react', 'electron', 'next', 'vue'],
-    frontend_libs:   ['threejs', 'videojs', 'redux', 'react-spring'],
+    frontend_libs:   ['threejs', 'gsap', 'videojs', 'redux', 'react-spring'],
     frontend_styles: ['tailwind', 'css-modules', 'sass'],
     backend:         ['php', 'express', 'nest'],
     backend_db:      ['firebase', 'mysql', 'postgresql', 'redis'],

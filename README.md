@@ -20,5 +20,5 @@ export const userConfig = {
       misc:         ['rabbitmq']
     }
   }
-}
+};
 ```

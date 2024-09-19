@@ -15,7 +15,7 @@ export const userConfig = {
       styles:       ['tailwind', 'css-modules', 'sass']
     },
     backend {
-      frameworks:   ['php', 'express', 'nest'],
+      frameworks:   ['express', 'nest'],
       databases:    ['firebase', 'mysql', 'postgresql', 'redis'],
       misc:         ['rabbitmq']
     }

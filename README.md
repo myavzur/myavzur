@@ -10,7 +10,7 @@ export const userConfig = {
       frameworks:   ['ejs']
     },
     frontend: {
-      frameworks:   ['react', 'electron', 'next', 'vue'],
+      frameworks:   ['react', 'next', 'vue', 'electron'],
       libraries:    ['threejs', 'gsap', 'videojs', 'redux', 'react-spring'],
       styles:       ['tailwind', 'css-modules', 'sass']
     },

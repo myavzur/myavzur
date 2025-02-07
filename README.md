@@ -7,7 +7,7 @@ export const userConfig = {
     common: {
       languages:    ['js', 'ts', 'html', 'css', 'php'],
       bundlers:     ['webpack', 'gulp', 'vite'],
-      systems:      ['windows', 'linux', 'ios'],
+      systems:      ['windows', 'linux', 'android', 'ios'],
       misc:         ['ejs', 'handlebars', 'docker']
     },
     frontend: {

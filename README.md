@@ -16,6 +16,10 @@ export const userConfig = {
       libraries:    ['threejs', 'gsap', 'videojs', 'react-spring'],
       styles:       ['tailwind', 'css-modules', 'sass']
     },
+    mobile: {
+      languages:    ['dart'],
+      frameworks:   ['flutter']
+    },
     backend {
       frameworks:   ['express', 'nest'],
       databases:    ['firebase', 'mysql', 'postgresql', 'redis'],

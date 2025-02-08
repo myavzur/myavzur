@@ -11,14 +11,10 @@ export const userConfig = {
       misc:         ['ejs', 'handlebars', 'docker']
     },
     frontend: {
-      frameworks:   ['react', 'next', 'vue', 'electron'],
+      frameworks:   ['react', 'react-native', 'next', 'vue', 'electron'],
       stores:       ['redux', 'zustand'],
       libraries:    ['threejs', 'gsap', 'videojs', 'react-spring'],
       styles:       ['tailwind', 'css-modules', 'sass']
-    },
-    mobile: {
-      languages:    ['dart'],
-      frameworks:   ['flutter']
     },
     backend {
       frameworks:   ['express', 'nest'],

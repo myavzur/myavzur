@@ -1,6 +1,3 @@
-- ⚡ Fun fact **We are not eternal**
-
-
 ```js
 export const skills = {
   common: {
@@ -24,3 +21,5 @@ export const skills = {
   }
 };
 ```
+
+⚡ Fun fact **We are not eternal**

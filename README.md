@@ -2,9 +2,9 @@
 
 🧬 Full-time **Software Developer** with **System Administrator** background
 
-🎣 Catching bugs in codebases **since 2019**
+🎣 Catching bugs **since 2019**
 
-📄 Know about my experiences [in this resume](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
+📄 Know about my experiences [here](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
 
 ⚡ Motivation tip **We are not eternal**
 

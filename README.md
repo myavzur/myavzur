@@ -4,7 +4,7 @@ export const skills = {
     languages:    ['js', 'ts', 'html', 'css', 'php'],
     bundlers:     ['webpack', 'gulp', 'vite'],
     systems:      ['windows', 'linux', 'android', 'ios'],
-    misc:         ['ejs', 'handlebars', 'docker']
+    misc:         ['ejs', 'handlebars']
   },
   frontend: {
     experience:   "6+ years",
@@ -17,7 +17,7 @@ export const skills = {
     experience:   "3+ years",
     frameworks:   ['express', 'nest'],
     databases:    ['firebase', 'mysql', 'postgresql', 'redis'],
-    misc:         ['rabbitmq']
+    misc:         ['docker', 'rabbitmq']
   }
 };
 ```

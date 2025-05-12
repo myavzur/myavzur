@@ -1,14 +1,13 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px">, I'm Maxim
+### Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="20" height="20">, I'm Maxim
 
-🧬 Full-time **Software Developer** with **System Administrator** background
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48e/512.gif" alt="💎" width="15px" height="15px"> Full-time **Software Developer** with **System Administrator** background
 
-🎣 Catching bugs **since 2019**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a3/512.gif" alt="🎣" width="15px" height="15px"> Catching bugs in codebase **since 2019**
 
-📄 Know about my experiences [here](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
 
-⚡ Motivation tip **We are not eternal**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="15px" height="15px"> Motivation tip **We are not eternal**.
 
-| Core | Framework | Style | Bundle |
+| Core | Framework | Style | Bund |
 |------|------------|-------|--------|
 | [![Core](https://skillicons.dev/icons?i=js,ts,html,css,androidstudio&perline=2)](https://skillicons.dev) | [![Frames](https://skillicons.dev/icons?i=react,electron,next,vue,threejs,jquery&perline=2)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,emotion,figma,ps,ai&perline=2)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=gulp,webpack,vite&perline=1)](https://skillicons.dev) |
 

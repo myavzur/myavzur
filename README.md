@@ -11,12 +11,7 @@ export const userConfig = {
       misc:         ['ejs', 'handlebars', 'docker']
     },
     frontend: {
-      expirience:   {
-        overall: "6+ years",
-        web: "6+ years",
-        desktop: "1 year",
-        mobile: "1 year"
-      },
+      expirience:   "6+ years",
       frameworks:   ['react', 'react-native', 'next', 'vue', 'electron'],
       stores:       ['redux', 'zustand'],
       libraries:    ['threejs', 'gsap', 'videojs', 'react-spring'],

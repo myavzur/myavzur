@@ -22,4 +22,4 @@ export const skills = {
 };
 ```
 
-⚡ Fun fact **We are not eternal**
+⚡ Motivation tip **We are not eternal**

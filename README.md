@@ -3,12 +3,10 @@
 
 - 🔭 I’m currently working on **Rethink Finances Mobile**
 
-- 🌱 I’m currently learning **React Native**
-
 - 📄 Know about my experiences [https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
 
 - ⚡ Fun fact **We are not eternal**
-- 
+
 ```js
 export const skills = {
   common: {

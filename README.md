@@ -22,6 +22,4 @@ export const skills = {
 };
 ```
 
-📄 Know about me and my experiences with my [resume](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641) 
-
 ⚡ Fun fact **We are not eternal**

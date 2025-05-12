@@ -1,4 +1,5 @@
-**Senior Frontend Developer** with System Administration background, currently diving deeper into React Native. Passionate about building high-performant, maintainable and scalable applications with modern web technologies.
+🖥️ **Senior Frontend Developer** with System Administration background, currently diving deeper into React Native. Passionate about building high-performant, maintainable and scalable applications with modern web technologies.
+
 
 ```js
 export const skills = {

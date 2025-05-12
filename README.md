@@ -1,5 +1,7 @@
-🖥️ **Senior Frontend Developer** with System Administration background, currently diving deeper into React Native. Passionate about building high-performant, maintainable and scalable applications with modern web technologies.
+🖥️ **Senior Frontend Developer** with 🔧**System Administion** background.  
+Currently mastering React Native while building a financial analysis powerhouse 💸
 
+Passionate about building high-performant, maintainable and scalable applications with modern web technologies.
 
 ```js
 export const skills = {
@@ -19,7 +21,7 @@ export const skills = {
   backend: {
     experience:   "3+ years",
     frameworks:   ['express', 'nest'],
-    databases:    ['firebase', 'mysql', 'postgresql', 'redis'],
+    databases:    ['mysql', 'postgresql', 'redis'],
     misc:         ['docker', 'rabbitmq']
   }
 };

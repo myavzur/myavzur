@@ -4,6 +4,8 @@
 
 🎣 Catching bugs in codebases **since 2019**
 
+📄 Know about my experiences [in this resume](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
+
 ⚡ Motivation tip **We are not eternal**
 
 | Core | Framework | Style | Bundle |

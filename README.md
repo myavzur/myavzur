@@ -1,12 +1,3 @@
-<h1 align="center">
-  Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm Maxim
-</h1>
-<h3 align="center">💻 Software Engineer | 🛠 System Administrator</h3>
-
-
-- 📄 Know about me and my experiences [https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641](https://orel.hh.ru/resume/a049bd0dff0bf7fc4a0039ed1f6d5273467641)
-
 - ⚡ Fun fact **We are not eternal**
 
 

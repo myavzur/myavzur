@@ -1,5 +1,3 @@
-### Hi <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f47d/512.gif" alt="👽" width="20" height="20">, I'm human
-
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="20px" height="20px"> Full-time **Software Engineer** with **System Administrator** background
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a3/512.gif" alt="🎣" width="20px" height="20px"> Catching bugs in codebases **since 2019**

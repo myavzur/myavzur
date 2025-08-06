@@ -1,5 +1,7 @@
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9be/512.gif" alt="🦾" width="20px" height="20px"> Full-time **Software Engineer** with **System Administrator** background
 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a3/512.gif" alt="🎣" width="20px" height="20px"> Catching bugs **since 2019**
+
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20px" height="20px"> Motivation tip **We are not eternal**
 
 | Core | Framework | Style | Bund |

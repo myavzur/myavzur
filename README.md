@@ -2,7 +2,9 @@
 
 <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3a3/512.gif" alt="🎣" width="20px" height="20px"> Catching bugs **since 2019**
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20px" height="20px"> Motivation tip **Stop starting and start finishing**
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30a/512.gif" alt="🌊" width="20px" height="20px"> Currently working on mobile **Financial application**
+
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="⚡" width="20px" height="20px"> Motivation tip **We are not eternal, stop starting and start finishing**
 
 | Core | Framework | Style | Bund |
 |------|------------|-------|--------|
